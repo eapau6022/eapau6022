@@ -18,8 +18,7 @@ I'm a full stack Data Analyst
 2. Sql
 3. Microsoft Excel 
 4. Power Bi
-5. Statistics
-6. R programming
+
 ## Summary Of My Journey
 👩‍💻 Started as a computer Engineer
 
